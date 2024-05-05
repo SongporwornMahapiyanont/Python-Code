@@ -14,9 +14,9 @@ print(len(name)) #lengh of String
 
 print("------------") 
 
-print(name.upper()) #SALDASNLDASD
-print(name.lower()) #asdnasldjasdn
-print(name.capitalize()) #Sasdansdlkjasn
+print(name.upper()) # SALDASNLDASD
+print(name.lower()) # asdnasldjasdn
+print(name.capitalize()) # Sasdansdlkjasn
 
 print("------------") 
 
