@@ -18,3 +18,7 @@ print("Result1 = " , x+y , " " , x*y)
 print("Result2 = " , x/y , " " , x//y)
 print("Result3 = " , 123%y) 
 print("Result4 = " , x**3 )
+
+
+BB = 1.555552323141124
+print(format(BB,'.2f'))
