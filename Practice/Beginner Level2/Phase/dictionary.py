@@ -8,7 +8,7 @@ print(animal["m"])
 color[115] = "home" #fix
 print(color[115]) 
 color.update({"blue":"sky"})
-print(color)
+print("color = " + str(color))
 print(" ")
 
 for item in color.items() : 

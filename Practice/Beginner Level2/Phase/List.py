@@ -18,8 +18,9 @@
 info1 = [1,2,3,4,5,6,7,8,9,0,0,0,0,0]
 info2 = ["a","b","c","c","d"]
 
-info1.append(12)
-info2.append("AA")
+info1.append(12) #Add value
+info2.append("AA") # Add value
+
 print(info1)
 print(info2)
 
