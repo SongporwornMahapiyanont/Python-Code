@@ -38,6 +38,10 @@ def Back(x,y,z) :
         return 
     return x+y+z
         
+def PASS():
+    pass
+
+
 # print("_____________")
 
 # x = int(input()) 
