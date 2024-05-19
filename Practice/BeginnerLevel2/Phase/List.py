@@ -18,8 +18,8 @@
 info1 = [1,2,3,4,5,6,7,8,9,0,0,0,0,0]
 info2 = ["a","b","c","c","d"]
 
-info1.append(12) #Add value
-info2.append("AA") # Add value
+info1.append(12) #Add value but Add Value just One only
+info2.append("AA") # Add value but Add Value just One only
 
 print(info1)
 print(info2)
@@ -57,11 +57,11 @@ print("-------------------")
 
 a = [2,2,2,2,2,2,2,2,2]
 b = [3,3,3,3,3,3,3,3,3]
-zq =["String"]
+zq =["String","HI","asd"]
 result = a+b
 result = print(result)
 c = a.count(2)
-print(c)
+print("Count number 2 : ",c)
 
-a.extend(zq)
+a.extend(zq) # Add value but Add Value nemerous
 print(a)

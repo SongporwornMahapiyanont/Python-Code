@@ -14,8 +14,8 @@ lis = ["hi","bro"] #add all info in 1 round
 fruit.update(lis)
 print("update = " + str(fruit))
 
-fruit.discard("A1")
-# fruit.remove("A1") if you are using this function but Info dont has info in variable It will Error
+fruit.discard("A1") 
+# fruit.remove("A1") if you are using this function Even if dont has Info in variable It will Error
 print("discard = " + str(fruit))
 
 
